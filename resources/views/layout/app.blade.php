@@ -13,7 +13,7 @@
         @include('partials.header')
     </header>
 
-    <main>
+    <main class="text-bg-dark">
         @yield('construct')
     </main>
 

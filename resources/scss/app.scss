@@ -1,12 +1,16 @@
 @use '~bootstrap/scss/bootstrap';
-.img{
+
+.img {
     max-width: 100%;
 }
-li,ul,menu{
+
+li,
+ul,
+menu {
     list-style: none;
 }
 
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
